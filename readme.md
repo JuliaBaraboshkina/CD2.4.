@@ -10,7 +10,8 @@
 
 ***Демонстрация работы приложения***
 
-<img src="https://user-images.githubusercontent.com/90133237/162260969-21ad466b-3c20-47e4-bd00-41946e901021.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/90133237/163716077-0d924b13-ce09-4f53-949b-bcb7d8e2cd46.jpg" width="300" />
 
-<img src="https://user-images.githubusercontent.com/90133237/162261058-ce673444-7785-44f9-82b1-f0e232b42b9d.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/90133237/163716081-814ce796-6980-46d0-b828-d80e7357a2d2.jpg" width="300" />
 
+<img src="https://user-images.githubusercontent.com/90133237/163716083-e943b9b7-0456-4128-87b7-26d892134833.jpg" width="300" />
